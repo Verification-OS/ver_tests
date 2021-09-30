@@ -1,0 +1,6 @@
++define+WT_DCACHE
++define+RVV_ARIANE=1'b1
+../dut_rtl/deps/cva6/include/riscv_pkg.sv
+../dut_rtl/deps/cva6/src/riscv-dbg/src/dm_pkg.sv
+../dut_rtl/deps/cva6/src/fpu/src/fpnew_pkg.sv
+../dut_rtl/deps/cva6/include/ariane_pkg.sv

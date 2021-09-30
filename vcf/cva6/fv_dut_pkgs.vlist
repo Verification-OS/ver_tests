@@ -1,0 +1,14 @@
++define+WT_DCACHE
+../dut_rtl/include/riscv_pkg.sv
+../dut_rtl/riscv-dbg/src/dm_pkg.sv
+../dut_rtl/include/ariane_pkg.sv
+../dut_rtl/include/std_cache_pkg.sv
+../dut_rtl/include/wt_cache_pkg.sv
+../dut_rtl/axi/src/axi_pkg.sv
+//./dut_rtl/register_interface/src/reg_intf.sv
+../dut_rtl/register_interface/src/reg_intf_pkg.sv
+//../dut_rtl/include/axi_intf.sv
+../dut_rtl/include/ariane_soc_pkg.sv
+../dut_rtl/include/ariane_axi_pkg.sv
+../dut_rtl/fpu/src/fpnew_pkg.sv
+../dut_rtl/fpu/src/fpu_div_sqrt_mvp/hdl/defs_div_sqrt_mvp.sv

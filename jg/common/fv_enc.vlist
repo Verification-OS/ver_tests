@@ -1,0 +1,11 @@
+./config.vh
++incdir+../fv_rtl
+../fv_rtl/fv.vh
+../fv_rtl/FV_core_enc.svp
+../fv_rtl/FV_BINDS_mem_mappings.sv
+../fv_rtl/FV_binds.sv
+../fv_rtl/FV_PROP_si.sv
+../fv_rtl/FV_prop.sv
+../fv_rtl/FV_COV_instructions.sv
+../fv_rtl/FV_cov.sv
+../fv_rtl/fv.sv
